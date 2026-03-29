@@ -35,7 +35,9 @@ Loan Approval Sysytem is a Machine Learning-based system designed to automate th
 
 # Steps to Install & Run the Project
 1.Clone the project: git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
 2.Install dependencies: pip install -r requirements.txt
+
 3.Run the notebook: Open LoanApproval.ipynb in your preferred editor (VS Code or Colab) and run all cells.
 
 # Instructions for testing
